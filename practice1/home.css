@@ -1,0 +1,29 @@
+
+.container{
+    
+    background-color: aquamarine;
+}
+.main-bar{
+    height: 200px;
+    width: 200px;
+    background-color: azure;
+}
+.side-bar1
+{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+.side-bar2
+{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(219, 214, 224);
+}
+.footer{
+    height: 100px;
+    width: fit-content;
+    background-color: brown;
+    margin-bottom: 10px;
+   float: right;
+}
